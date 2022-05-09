@@ -1,6 +1,6 @@
 import React, { useState } from 'react'
 
-import { checkPassword, validateEmail } from '../../utils/helpers';
+import { validateEmail } from '../../utils/helpers';
 
 function Contact() {
   const [formState, setFormState] = useState({ name: '', email: '', message: '' });
@@ -9,5 +9,10 @@ function Contact() {
   const { name, email, message } = formState;
 
 
+  return (
+    <div>
+
+    </div>
+  );
 }
   export default Contact;

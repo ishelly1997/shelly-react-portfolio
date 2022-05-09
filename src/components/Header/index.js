@@ -6,7 +6,7 @@ function Header() {
 
   return (
     <header>
-        Isabel Selimaj Shelly 
+      <h1>Isabel Selimaj Shelly</h1> 
     </header>);
 }
 
