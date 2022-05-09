@@ -1,13 +1,12 @@
 import React from 'react';
-import Nav from '../Nav';
+
 
 
 function Header() {
 
   return (
     <header>
-        Header 
-        <Nav/>
+        Isabel Selimaj Shelly 
     </header>);
 }
 

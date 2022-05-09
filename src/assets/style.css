@@ -3,3 +3,23 @@
 #EDF2F4
 #8D99AE
 #2B2D42}*/
+
+header {
+    margin-top: 45px;
+    padding-bottom: 25px;
+    background-image: url("lavender-field.png");
+}
+.nav-opts {
+    display: inline-block
+}
+footer {
+    position: sticky;
+}
+
+.avatar {
+    max-width: 32px;
+    max-height: 32px;
+}
+.nav-opts {
+    display: block;
+}

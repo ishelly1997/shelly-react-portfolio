@@ -4,12 +4,12 @@ import React from 'react';
 function Projects() {
 
   return (
-    <section>
+    <div>
         {/* app image */}
-        <h1>Project Title</h1>
-        <p>Link to deployed app</p>
-        <p>Link to Github Repository</p>
-    </section>
+        <h1>Travel Planner Lite</h1>
+        <p>Deployed App</p>
+        <p>Github Repository</p>
+    </div>
     );
 }
 

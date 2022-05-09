@@ -1,14 +1,14 @@
 import React from 'react'
-import Contact from '../Contact';
+
 
 
 function Footer() {
 
   return (
-    <footer>
-        footer
-        <Contact/>
-    </footer>);
+    <footer className='fixed-bottom'>
+    <a href='#contact'>Contact Me</a>
+    <p>made with React.js</p>
+</footer>);
 }
 
 export default Footer;

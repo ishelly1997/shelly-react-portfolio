@@ -4,25 +4,19 @@ import React from 'react';
 function Nav() {
 
   return (
-    <>
-  <h2>
-    <a href="/">
-      <span role="img" aria-label="title"></span>Portfolio
-    </a>
-  </h2>
-  <nav>
-    <ul className="flex-row">
-      <li className="mx-2">
-        <a href="#about">
-          About me
-        </a>
+
+  <nav >
+      <li className="about-me">
+        <a href="#about">About Me</a>
       </li>
       <li>
-        <span>Contact</span>
-      </li>
-    </ul>
+        <a href="#Projects">Projects</a>
+        </li>
+        <li>
+          <a href="#Resume">Resume</a>
+        </li>
   </nav>
-  </>
+
   );
 }
 
