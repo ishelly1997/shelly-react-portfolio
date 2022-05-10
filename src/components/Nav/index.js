@@ -1,7 +1,5 @@
 import React, { useState } from 'react';
-
-import { capitalizeFirstLetter } from "../../utils/helpers";
-
+import '../../assets/style.css'
 function Nav() {
 const [tabs] = useState([
   {
@@ -15,16 +13,18 @@ const [currentTab, setCurrentTab] = useState(tabs[0]);
 
   return (
 
-  <nav >
+  <nav className='nav-bar'>
+  
       <li className="about-me">
-        <a href="#about">About Me</a>
+        <a href="About">About Me</a>
       </li>
       <li>
-        <a href="#Projects">Projects</a>
+        <a href="Projects">Projects</a>
         </li>
         <li>
-          <a href="#Resume">Resume</a>
+          <a href="Resume">Resume</a>
         </li>
+  
   </nav>
 
   );
