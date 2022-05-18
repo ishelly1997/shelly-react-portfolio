@@ -4,7 +4,7 @@ import hhlogo from '../../assets/hhhs.png'
 import genlogo from '../../assets/geneseo.png'
 import culogo from '../../assets/culogo.png'
 import soh from '../../assets/SOHHlogo2.png'
-import 'bootstrap/dist/css/bootstrap.min.css';
+ import 'bootstrap/dist/css/bootstrap.min.css';
 
 export default function Resume() {
   return (
