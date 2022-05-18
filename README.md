@@ -5,7 +5,8 @@ This is a my portfolio, navigate the site through the navigation bar to see my b
 
  ## Table of Contents:  
 [1. Description](#Description)  
-[2. Tech](#Tech) 
+[2. Tech](#Tech)
+
 [3. Installation](#Installation)  
 [4. Visual](#Visual)  
   
