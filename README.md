@@ -1,12 +1,11 @@
 # Isabel's React Portfolio
 
 ## Description
-This is a my portfolio, navigate the site through the navigation bar to see my bio, resume, and collection of work. 
+This is my portfolio, navigate the site through the navigation bar to see my bio, resume, and collection of work. 
 
  ## Table of Contents:  
 [1. Description](#Description)  
 [2. Tech](#Tech)
-
 [3. Installation](#Installation)  
 [4. Visual](#Visual)  
   
