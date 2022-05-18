@@ -9,15 +9,19 @@ function Projects() {
     <div className='project-container'><div id='project-card'>
       <h1>Travel Planner Lite</h1>
       <img id="logo1"src={logo1} alt='logo'/>
-      <p>Deployed App</p>
-      <p>Github Repository</p>
+      <div/>
+        <a href='https://ishelly1997.github.io/Travel-Planner-Lite/'>Deployed App</a>
+        <div/>
+        <a href='https://github.com/ishelly1997/Travel-Planner-Lite'>Github Repository</a>
     </div>
     <div id='project-card'>
 
         <h1>Restaurant Rater</h1>
         <img id="logo2" src={logo2} alt="logo"/>
-        <p>Deployed App</p>
-        <p>Github Repository</p>
+        <div/>
+        <a href='https://hidden-anchorage-87241.herokuapp.com/'>Deployed App</a>
+        <div/>
+        <a href='https://github.com/cathmcneel/restaurant-rater'>Github Repository</a>
       </div></div>
     );
 }

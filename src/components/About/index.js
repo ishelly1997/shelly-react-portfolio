@@ -8,8 +8,10 @@ function About() {
           <h1>About</h1>
           {/* avatar image */}
           <img className='avatar' src={avatar} alt='Isabel'/>
-          <h4>introduction</h4>
-          <p>bio</p>
+          <h4>bio</h4>
+          <p>
+          </p>
+          <p>New Yorker, Bilingual English + French, SUNY Geneseo Graduate</p>
       </section>
       );
   }
