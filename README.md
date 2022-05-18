@@ -6,6 +6,7 @@ This is my portfolio, navigate the site through the navigation bar to see my bio
  ## Table of Contents:  
 [1. Description](#Description)  
 [2. Tech](#Tech) 
+
 [3. Installation](#Installation)  
 [4. Visual](#Visual)  
   
